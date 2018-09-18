@@ -1,2 +1,2 @@
 # web-shift
-Projeto criado com o objetivo de aprender e por em prática Desenvolvimento Web
+Projeto criado com o objetivo de aprender e pôr em prática Desenvolvimento Web
